@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DePaCoGTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-03-30T03:20:50" hostname="DESKTOP-LDORA43" time="0.763">
+  <properties/>
+  <testcase name="test10" classname="DePaCoGTest" time="0.751"/>
+  <testcase name="test11" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test12" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test13" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test14" classname="DePaCoGTest" time="0.001"/>
+  <testcase name="test15" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test1" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test2" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test3" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test4" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test5" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test6" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test7" classname="DePaCoGTest" time="0.001"/>
+  <testcase name="test8" classname="DePaCoGTest" time="0.0"/>
+  <testcase name="test9" classname="DePaCoGTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/think/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.0.13/6b56ec752b42ccfa1415c0361fb54b1ed7ca3db6/logback-classic-1.0.13.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/think/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.3.3/4c54deba9ff34a615b3072cd2def3558ff462987/ideaIC-2019.3.3/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+]]></system-err>
+</testsuite>

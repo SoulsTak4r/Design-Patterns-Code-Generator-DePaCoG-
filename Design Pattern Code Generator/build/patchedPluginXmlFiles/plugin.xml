@@ -1,0 +1,21 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="193.6494" until-build="193.*"/>
+  <id>org.example.Hw2</id>
+  <name>Design Patterns</name>
+  <vendor email="hami_chlo@yahoo.com" url="hamza_amjad@yahoo.com">Ghar</vendor>
+  <description>
+    This is my first plugin, for design patterns
+    </description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <group id="Design Patterns.DesignPattern" text="Design Patterns" description="About my Design">
+      <add-to-group group-id="ToolsMenu" anchor="last"/>
+      <action class="DePaCoG" id="Design Patterns.Actions.DesignPattern" text="Generate Patterns"/>
+    </group>
+  </actions>
+</idea-plugin>
